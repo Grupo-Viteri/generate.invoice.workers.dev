@@ -1,4 +1,4 @@
-name = "generate"
-account_id = "2311a34ed4b9a31a0c6a154fb061327a" # invoice.workers.dev
+name = "pdfgenerator"
+account_id = "2428c66176ab3739064c36e917317050" 
 type = "webpack"
 workers_dev = true
